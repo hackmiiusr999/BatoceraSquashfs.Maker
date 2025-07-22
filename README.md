@@ -11,10 +11,10 @@ regualar squashfs: just a Normal squashfs.
 to set it up you must position and name the files like this:
 
   -------------
-  |Update[Folder]
-  |
-  |build.sh[Script]
-  -------------
+  Update[Folder]
+  
+  build.sh[Script]
+
 
   ## Filesystem setup for Regualar squashfs [Linux]:
   Again, It has to be in the same layout as this:
