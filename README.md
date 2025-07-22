@@ -18,9 +18,8 @@ to set it up you must position and name the files like this:
   ## Filesystem setup for Regualar squashfs [Linux]:
   Again, It has to be in the same layout as this:
 
-    -------------
-    makesquash[Folder]
-  
-     build.sh
+-------------
+makesquash[Folder]
+build.sh [script]
 
   That is all. if you need help, feel free to put it into issues. Enjoy :)
